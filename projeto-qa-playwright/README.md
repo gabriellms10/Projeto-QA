@@ -5,7 +5,7 @@ projeto-qa
 Este repositório contém uma suíte de testes automatizados com Playwright para validar a BookStore API e o BugBank Digital.
 
 Grupo compopsto por :
-Gabriel Luciano Macário de Sá
+Gabriel Luciano Macário de Sá, 
 Jhon Everton da Silva Carneiro
 
 Pré-requisitos
